@@ -1,0 +1,86 @@
+server,url_id,source,site,variant,url,paired_passes,consistent_differences,counted
+eu,u00626,tranco,casalemedia.com,apex,https://casalemedia.com/,5,ipv6_dead_end,no (dead end)
+eu,u01793,tranco,focus.de,apex,https://focus.de/,5,ipv6_dead_end,no (dead end)
+eu,u00306,tranco,gravatar.com,www,https://www.gravatar.com/,5,ipv6_dead_end,no (dead end)
+eu,u00455,tranco,bbc.co.uk,apex,https://bbc.co.uk/,5,ipv6_dead_end,no (dead end)
+eu,u00571,tranco,googleblog.com,apex,https://googleblog.com/,5,final_url;status_class,yes
+eu,u00572,tranco,googleblog.com,www,https://www.googleblog.com/,5,blocked_ipv4_only;final_url,yes
+eu,u02001,target,bing,homepage,https://www.bing.com/,5,size,yes
+eu,u00370,tranco,paytmfirstgames.com,www,https://www.paytmfirstgames.com/,5,ipv6_dead_end,no (dead end)
+eu,u02090,target,instagram,scrape,https://www.instagram.com/instagram/,5,final_url,no (final URL only)
+eu,u00600,tranco,hp.com,www,https://www.hp.com/,5,ipv6_dead_end,no (dead end)
+eu,u01380,tranco,meta.com,apex,https://meta.com/,5,blocked_ipv4_only;final_url;status_class,yes
+eu,u00286,tranco,afternic.com,www,https://www.afternic.com/,5,ipv4_dead_end,no (dead end)
+eu,u01381,tranco,meta.com,www,https://www.meta.com/,5,blocked_ipv4_only;final_url;status_class,yes
+eu,u00757,tranco,issuu.com,www,https://www.issuu.com/,5,ipv6_dead_end,no (dead end)
+eu,u01418,tranco,cbsnews.com,apex,https://cbsnews.com/,4,ipv6_dead_end,no (dead end)
+eu,u00781,tranco,doubleverify.com,www,https://www.doubleverify.com/,5,ipv6_dead_end,no (dead end)
+eu,u01659,tranco,teads.tv,www,https://www.teads.tv/,5,ipv6_dead_end,no (dead end)
+eu,u01106,tranco,visualstudio.com,apex,https://visualstudio.com/,5,ipv6_dead_end,no (dead end)
+eu,u00439,tranco,bbc.com,apex,https://bbc.com/,5,ipv6_dead_end,no (dead end)
+eu,u00227,tranco,windows.com,apex,https://windows.com/,5,ipv6_dead_end,no (dead end)
+eu,u01666,tranco,lefigaro.fr,apex,https://lefigaro.fr/,5,ipv6_dead_end,no (dead end)
+eu,u00228,tranco,windows.com,www,https://www.windows.com/,5,ipv6_dead_end,no (dead end)
+eu,u00964,tranco,ampproject.org,apex,https://ampproject.org/,5,ipv6_dead_end,no (dead end)
+eu,u01172,tranco,aboutads.info,apex,https://aboutads.info/,5,ipv6_dead_end,no (dead end)
+eu,u01173,tranco,aboutads.info,www,https://www.aboutads.info/,5,ipv6_dead_end,no (dead end)
+eu,u00231,tranco,europa.eu,apex,https://europa.eu/,5,ipv6_dead_end,no (dead end)
+eu,u00232,tranco,europa.eu,www,https://www.europa.eu/,5,ipv6_dead_end,no (dead end)
+eu,u00067,tranco,bing.com,apex,https://bing.com/,5,size,yes
+eu,u00198,tranco,dellemc.com,www,https://www.dellemc.com/,5,ipv6_dead_end,no (dead end)
+eu,u00068,tranco,bing.com,www,https://www.bing.com/,5,size,yes
+eu,u01902,tranco,tailscale.com,www,https://www.tailscale.com/,5,final_url,no (final URL only)
+eu,u00959,tranco,cnbc.com,www,https://www.cnbc.com/,5,final_url,no (final URL only)
+eu,u01503,tranco,fda.gov,www,https://www.fda.gov/,5,status_class,yes
+eu,u00867,tranco,launchdarkly.com,www,https://www.launchdarkly.com/,5,ipv6_dead_end,no (dead end)
+eu,u00906,tranco,g.page,apex,https://g.page/,5,blocked_ipv6_only;final_url;status_class,yes
+eu,u00907,tranco,g.page,www,https://www.g.page/,5,blocked_ipv6_only;final_url;status_class,yes
+eu,u00209,tranco,reddit.com,apex,https://reddit.com/,5,ipv6_dead_end,no (dead end)
+eu,u00668,tranco,aliyun.com,apex,https://aliyun.com/,5,ipv6_dead_end,no (dead end)
+eu,u00930,tranco,speedtest.net,apex,https://speedtest.net/,5,ipv6_dead_end,no (dead end)
+eu,u00323,tranco,webex.com,apex,https://webex.com/,5,status_class,yes
+eu,u00324,tranco,webex.com,www,https://www.webex.com/,5,blocked_ipv4_only;status_class,yes
+eu,u00974,tranco,branch.io,apex,https://branch.io/,5,ipv6_dead_end,no (dead end)
+eu,u00212,tranco,openai.com,www,https://www.openai.com/,5,ipv6_dead_end,no (dead end)
+eu,u00810,tranco,espn.com,apex,https://espn.com/,5,blocked_ipv4_only;final_url;size,yes
+eu,u00811,tranco,espn.com,www,https://www.espn.com/,5,blocked_ipv4_only;size,yes
+eu,u00501,tranco,rubiconproject.com,apex,https://rubiconproject.com/,5,ipv6_dead_end,no (dead end)
+eu,u00025,tranco,mail.ru,apex,https://mail.ru/,5,ipv6_dead_end,no (dead end)
+us,u01172,tranco,aboutads.info,apex,https://aboutads.info/,5,ipv6_dead_end,no (dead end)
+us,u01173,tranco,aboutads.info,www,https://www.aboutads.info/,5,ipv6_dead_end,no (dead end)
+us,u00323,tranco,webex.com,apex,https://webex.com/,5,blocked_ipv4_only;status_class,yes
+us,u00964,tranco,ampproject.org,apex,https://ampproject.org/,5,ipv6_dead_end,no (dead end)
+us,u00867,tranco,launchdarkly.com,www,https://www.launchdarkly.com/,5,ipv6_dead_end,no (dead end)
+us,u00370,tranco,paytmfirstgames.com,www,https://www.paytmfirstgames.com/,5,ipv6_dead_end,no (dead end)
+us,u00810,tranco,espn.com,apex,https://espn.com/,5,blocked_ipv4_only;final_url;size,yes
+us,u00811,tranco,espn.com,www,https://www.espn.com/,5,blocked_ipv4_only;size,yes
+us,u00455,tranco,bbc.co.uk,apex,https://bbc.co.uk/,5,ipv6_dead_end,no (dead end)
+us,u00974,tranco,branch.io,apex,https://branch.io/,5,ipv6_dead_end,no (dead end)
+us,u02090,target,instagram,scrape,https://www.instagram.com/instagram/,5,blocked_ipv4_only;final_url;status_class,yes
+us,u01106,tranco,visualstudio.com,apex,https://visualstudio.com/,5,ipv6_dead_end,no (dead end)
+us,u00025,tranco,mail.ru,apex,https://mail.ru/,5,ipv6_dead_end,no (dead end)
+us,u00306,tranco,gravatar.com,www,https://www.gravatar.com/,5,ipv6_dead_end,no (dead end)
+us,u00212,tranco,openai.com,www,https://www.openai.com/,5,ipv6_dead_end,no (dead end)
+us,u00184,tranco,blogspot.com,www,https://www.blogspot.com/,5,final_url;status_class,yes
+us,u01380,tranco,meta.com,apex,https://meta.com/,5,blocked_ipv4_only;status_class,yes
+us,u01381,tranco,meta.com,www,https://www.meta.com/,5,blocked_ipv4_only;status_class,yes
+us,u00501,tranco,rubiconproject.com,apex,https://rubiconproject.com/,5,ipv6_dead_end,no (dead end)
+us,u00600,tranco,hp.com,www,https://www.hp.com/,5,ipv6_dead_end,no (dead end)
+us,u00439,tranco,bbc.com,apex,https://bbc.com/,5,ipv6_dead_end,no (dead end)
+us,u01666,tranco,lefigaro.fr,apex,https://lefigaro.fr/,5,ipv6_dead_end,no (dead end)
+us,u00286,tranco,afternic.com,www,https://www.afternic.com/,5,ipv4_dead_end,no (dead end)
+us,u00781,tranco,doubleverify.com,www,https://www.doubleverify.com/,5,ipv6_dead_end,no (dead end)
+us,u00930,tranco,speedtest.net,apex,https://speedtest.net/,5,ipv6_dead_end,no (dead end)
+us,u00033,tranco,dzen.ru,apex,https://dzen.ru/,5,ipv6_dead_end,no (dead end)
+us,u00034,tranco,dzen.ru,www,https://www.dzen.ru/,5,ipv6_dead_end,no (dead end)
+us,u01902,tranco,tailscale.com,www,https://www.tailscale.com/,5,final_url,no (final URL only)
+us,u00231,tranco,europa.eu,apex,https://europa.eu/,4,ipv6_dead_end,no (dead end)
+us,u00232,tranco,europa.eu,www,https://www.europa.eu/,5,ipv6_dead_end,no (dead end)
+us,u00668,tranco,aliyun.com,apex,https://aliyun.com/,5,ipv6_dead_end,no (dead end)
+us,u00209,tranco,reddit.com,apex,https://reddit.com/,5,ipv6_dead_end,no (dead end)
+us,u00757,tranco,issuu.com,www,https://www.issuu.com/,5,ipv6_dead_end,no (dead end)
+us,u01659,tranco,teads.tv,www,https://www.teads.tv/,5,ipv6_dead_end,no (dead end)
+us,u01793,tranco,focus.de,apex,https://focus.de/,5,ipv6_dead_end,no (dead end)
+us,u00227,tranco,windows.com,apex,https://windows.com/,5,ipv6_dead_end,no (dead end)
+us,u00228,tranco,windows.com,www,https://www.windows.com/,5,ipv6_dead_end,no (dead end)
+us,u00198,tranco,dellemc.com,www,https://www.dellemc.com/,5,ipv6_dead_end,no (dead end)

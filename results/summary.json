@@ -1,0 +1,218 @@
+{
+  "servers": {
+    "eu": {
+      "location": "Frankfurt, DE",
+      "provider": "DigitalOcean",
+      "public_ipv4": "46.101.105.23",
+      "public_ipv6": "2a03:b0c0:3:f0:0:3:1657:7000",
+      "passes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "first_pass_utc": "2026-10-11T23:12:06Z",
+      "last_pass_utc": "2026-10-12T01:07:17Z",
+      "user_agent": "Mozilla/5.0 (compatible; ipv6-study/1.0; +https://github.com/DerekTech/ipv6-study)",
+      "curl": [
+        "curl 8.5.0 (x86_64-pc-linux-gnu) libcurl/8.5.0 OpenSSL/3.0.13 zlib/1.3 brotli/1.1.0 zstd/1.5.5 libidn2/2.3.7 libpsl/0.21.2 (+libidn2/2.3.7) libssh/0.10.6/openssl/zlib nghttp2/1.59.0 librtmp/2.3 OpenLDAP/2.6.10"
+      ],
+      "warnings": []
+    },
+    "us": {
+      "location": "Atlanta, US",
+      "provider": "DigitalOcean",
+      "public_ipv4": "134.199.192.151",
+      "public_ipv6": "2604:a880:5:1::47db:1000",
+      "passes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "first_pass_utc": "2026-10-11T23:10:37Z",
+      "last_pass_utc": "2026-10-12T01:02:27Z",
+      "user_agent": "Mozilla/5.0 (compatible; ipv6-study/1.0; +https://github.com/DerekTech/ipv6-study)",
+      "curl": [
+        "curl 8.5.0 (x86_64-pc-linux-gnu) libcurl/8.5.0 OpenSSL/3.0.13 zlib/1.3 brotli/1.1.0 zstd/1.5.5 libidn2/2.3.7 libpsl/0.21.2 (+libidn2/2.3.7) libssh/0.10.6/openssl/zlib nghttp2/1.59.0 librtmp/2.3 OpenLDAP/2.6.10"
+      ],
+      "warnings": []
+    }
+  },
+  "sample": {
+    "tranco_list_id": "8PXYV",
+    "tranco_list_date": "2026-10-10",
+    "tranco_list_url": "https://tranco-list.eu/list/8PXYV/",
+    "top_n": 1000,
+    "www_variants": true,
+    "created_utc": "2026-10-11T22:25:00Z",
+    "url_count": 2098
+  },
+  "size_ratio_threshold": 1.5,
+  "tranco": {
+    "domains": 1000,
+    "measured": 1000,
+    "conn_measured": 0,
+    "aaaa_pct": 41.3,
+    "aaaa_n": 413,
+    "conn_ipv6_pct": null,
+    "conn_ipv6_n": 0,
+    "conn_ipv6_any_server_pct": null,
+    "conn_ipv4_n": 0,
+    "conn_ipv6_of_ipv4_sites_pct": null,
+    "answered_ipv4_n": 737,
+    "answered_ipv6_pct": 38.2,
+    "answered_ipv6_n": 382,
+    "answered_ipv6_any_server_pct": 39.3,
+    "answered_ipv6_of_ipv4_sites_pct": 51.8,
+    "web_domains_n": 725,
+    "aaaa_web_pct": 54.1,
+    "loaded_ipv6_n": 357,
+    "loaded_ipv6_of_ipv4_sites_pct": 49.1,
+    "ipv6_dead_end_domains_n": 25,
+    "aaaa_but_ipv6_failed_n": 14,
+    "aaaa_but_ipv6_failed_pct_of_aaaa": 3.4,
+    "apex_www": {
+      "domains_with_both_names_reachable_ipv4": 630,
+      "differ_n": 137,
+      "aaaa_differs_n": 132,
+      "ipv6_reachability_differs_n": 97,
+      "aaaa_www_only_n": 112,
+      "aaaa_apex_only_n": 20,
+      "differ_pct_of_domains": 13.7
+    },
+    "chart_aaaa_pct": 54.1,
+    "chart_v6_pct": 49.1,
+    "chart_n": 725
+  },
+  "targets": {
+    "sites": 50,
+    "measured": 50,
+    "categories": {
+      "search": 6,
+      "marketplace": 9,
+      "retail": 9,
+      "travel": 7,
+      "jobs": 6,
+      "real estate": 6,
+      "social": 7
+    },
+    "full_mode_n": 50,
+    "connect_mode_n": 0,
+    "aaaa_pct": 30.0,
+    "aaaa_n": 15,
+    "conn_ipv6_pct": 0.0,
+    "conn_ipv6_n": 0,
+    "conn_ipv4_n": 0,
+    "sites_with_separate_scrape_host": 4,
+    "hosts_disagree_ipv6_n": 0,
+    "full_measured": 50,
+    "full_answered_ipv6_pct": 26.0,
+    "web_sites_n": 44,
+    "aaaa_web_pct": 31.8,
+    "loaded_ipv6_of_ipv4_sites_pct": 29.5,
+    "ipv6_dead_end_sites_n": 0,
+    "homepage_answered_ipv6_pct": 28.0,
+    "scrape_answered_ipv6_pct": 26.0,
+    "scrape_pages_skipped_robots_n": 0,
+    "chart_aaaa_pct": 31.8,
+    "chart_v6_pct": 29.5,
+    "chart_n": 44
+  },
+  "speed": {
+    "eu": {
+      "tcp_connect_ms": {
+        "n": 648,
+        "median_ipv4": 1.2,
+        "median_ipv6": 1.5,
+        "median_difference_ipv6_minus_ipv4": 0.3,
+        "ipv6_faster_pct": 30.4,
+        "within_10ms_pct": 95.5
+      },
+      "tls_ms": {
+        "n": 648,
+        "median_ipv4": 73.3,
+        "median_ipv6": 74.0,
+        "median_difference_ipv6_minus_ipv4": -0.2,
+        "ipv6_faster_pct": 50.2,
+        "within_10ms_pct": 44.8
+      },
+      "ttfb_ms": {
+        "n": 648,
+        "median_ipv4": 108.9,
+        "median_ipv6": 113.0,
+        "median_difference_ipv6_minus_ipv4": -0.6,
+        "ipv6_faster_pct": 51.9,
+        "within_10ms_pct": 33.6
+      }
+    },
+    "us": {
+      "tcp_connect_ms": {
+        "n": 636,
+        "median_ipv4": 1.3,
+        "median_ipv6": 1.3,
+        "median_difference_ipv6_minus_ipv4": 0.1,
+        "ipv6_faster_pct": 21.1,
+        "within_10ms_pct": 94.7
+      },
+      "tls_ms": {
+        "n": 636,
+        "median_ipv4": 13.5,
+        "median_ipv6": 13.4,
+        "median_difference_ipv6_minus_ipv4": 0.0,
+        "ipv6_faster_pct": 44.8,
+        "within_10ms_pct": 92.5
+      },
+      "ttfb_ms": {
+        "n": 636,
+        "median_ipv4": 49.8,
+        "median_ipv6": 49.2,
+        "median_difference_ipv6_minus_ipv4": 0.1,
+        "ipv6_faster_pct": 46.7,
+        "within_10ms_pct": 73.7
+      }
+    }
+  },
+  "different": {
+    "ipv6_dead_end_urls_n": 31,
+    "ipv4_dead_end_urls_n": 1,
+    "urls_compared": 650,
+    "different_n": 16,
+    "different_pct": 2.5,
+    "ever_different_pct": 5.1,
+    "by_type": {
+      "status_class": 10,
+      "blocked_ipv4_only": 8,
+      "size": 5,
+      "blocked_ipv6_only": 2
+    },
+    "tranco_pct": 2.3,
+    "target_homepage_pct": 6.7,
+    "target_scrape_pct": 7.1,
+    "blocked_ipv6_only_n": 2,
+    "blocked_ipv4_only_n": 8
+  },
+  "size_noise": {
+    "ipv4": {
+      "urls": 2171,
+      "median_ratio": 1.001,
+      "p90_ratio": 1.024,
+      "share_above_threshold_pct": 2.3
+    },
+    "ipv6": {
+      "urls": 900,
+      "median_ratio": 1.001,
+      "p90_ratio": 1.014,
+      "share_above_threshold_pct": 2.3
+    }
+  },
+  "reach_basis": "Loaded over IPv6 from both servers",
+  "ipv6_failures": {
+    "redirected to a host without working IPv6": 60,
+    "timed out": 19,
+    "could not connect (refused or unreachable)": 6,
+    "could not resolve host": 3
+  }
+}

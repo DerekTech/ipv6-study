@@ -1,0 +1,89 @@
+server,site,host,url,failure
+eu,timeweb.ru,timeweb.ru,https://timeweb.ru/,could not connect (refused or unreachable)
+eu,timeweb.ru,www.timeweb.ru,https://www.timeweb.ru/,could not connect (refused or unreachable)
+eu,casalemedia.com,casalemedia.com,https://casalemedia.com/,redirected to a host without working IPv6
+eu,focus.de,focus.de,https://focus.de/,redirected to a host without working IPv6
+eu,gravatar.com,www.gravatar.com,https://www.gravatar.com/,redirected to a host without working IPv6
+eu,bbc.co.uk,bbc.co.uk,https://bbc.co.uk/,redirected to a host without working IPv6
+eu,state.gov,state.gov,https://state.gov/,timed out
+eu,paytmfirstgames.com,www.paytmfirstgames.com,https://www.paytmfirstgames.com/,redirected to a host without working IPv6
+eu,elmundo.es,elmundo.es,https://elmundo.es/,timed out
+eu,hp.com,www.hp.com,https://www.hp.com/,redirected to a host without working IPv6
+eu,issuu.com,www.issuu.com,https://www.issuu.com/,redirected to a host without working IPv6
+eu,cbsnews.com,cbsnews.com,https://cbsnews.com/,redirected to a host without working IPv6
+eu,doubleverify.com,www.doubleverify.com,https://www.doubleverify.com/,redirected to a host without working IPv6
+eu,teads.tv,www.teads.tv,https://www.teads.tv/,redirected to a host without working IPv6
+eu,visualstudio.com,visualstudio.com,https://visualstudio.com/,redirected to a host without working IPv6
+eu,telegram.me,www.telegram.me,https://www.telegram.me/,redirected to a host without working IPv6
+eu,bbc.com,bbc.com,https://bbc.com/,redirected to a host without working IPv6
+eu,windows.com,windows.com,https://windows.com/,redirected to a host without working IPv6
+eu,lefigaro.fr,lefigaro.fr,https://lefigaro.fr/,redirected to a host without working IPv6
+eu,windows.com,www.windows.com,https://www.windows.com/,redirected to a host without working IPv6
+eu,ampproject.org,ampproject.org,https://ampproject.org/,redirected to a host without working IPv6
+eu,aboutads.info,aboutads.info,https://aboutads.info/,redirected to a host without working IPv6
+eu,aboutads.info,www.aboutads.info,https://www.aboutads.info/,redirected to a host without working IPv6
+eu,europa.eu,europa.eu,https://europa.eu/,redirected to a host without working IPv6
+eu,europa.eu,www.europa.eu,https://www.europa.eu/,redirected to a host without working IPv6
+eu,dellemc.com,www.dellemc.com,https://www.dellemc.com/,redirected to a host without working IPv6
+eu,huawei.com,huawei.com,https://huawei.com/,timed out
+eu,launchdarkly.com,www.launchdarkly.com,https://www.launchdarkly.com/,redirected to a host without working IPv6
+eu,smartadserver.com,www.smartadserver.com,https://www.smartadserver.com/,could not resolve host
+eu,gnu.org,gnu.org,https://gnu.org/,timed out
+eu,gnu.org,www.gnu.org,https://www.gnu.org/,timed out
+eu,reddit.com,reddit.com,https://reddit.com/,redirected to a host without working IPv6
+eu,aliyun.com,aliyun.com,https://aliyun.com/,redirected to a host without working IPv6
+eu,speedtest.net,speedtest.net,https://speedtest.net/,redirected to a host without working IPv6
+eu,branch.io,branch.io,https://branch.io/,redirected to a host without working IPv6
+eu,openai.com,www.openai.com,https://www.openai.com/,redirected to a host without working IPv6
+eu,noaa.gov,noaa.gov,https://noaa.gov/,could not connect (refused or unreachable)
+eu,t.me,t.me,https://t.me/,redirected to a host without working IPv6
+eu,rubiconproject.com,rubiconproject.com,https://rubiconproject.com/,redirected to a host without working IPv6
+eu,mail.ru,mail.ru,https://mail.ru/,redirected to a host without working IPv6
+us,aboutads.info,aboutads.info,https://aboutads.info/,redirected to a host without working IPv6
+us,aboutads.info,www.aboutads.info,https://www.aboutads.info/,redirected to a host without working IPv6
+us,ampproject.org,ampproject.org,https://ampproject.org/,redirected to a host without working IPv6
+us,launchdarkly.com,www.launchdarkly.com,https://www.launchdarkly.com/,redirected to a host without working IPv6
+us,paytmfirstgames.com,www.paytmfirstgames.com,https://www.paytmfirstgames.com/,redirected to a host without working IPv6
+us,bbc.co.uk,bbc.co.uk,https://bbc.co.uk/,redirected to a host without working IPv6
+us,yandex.ru,yandex.ru,https://yandex.ru/,timed out
+us,yandex,yandex.com,https://yandex.com/,timed out
+us,yandex.ru,www.yandex.ru,https://www.yandex.ru/,timed out
+us,yandex,yandex.com,https://yandex.com/search/?text=ipv6,timed out
+us,smartadserver.com,www.smartadserver.com,https://www.smartadserver.com/,could not resolve host
+us,branch.io,branch.io,https://branch.io/,redirected to a host without working IPv6
+us,hilton.com,www.hilton.com,https://www.hilton.com/,timed out
+us,foxnews.com,www.foxnews.com,https://www.foxnews.com/,could not resolve host
+us,visualstudio.com,visualstudio.com,https://visualstudio.com/,redirected to a host without working IPv6
+us,mail.ru,mail.ru,https://mail.ru/,redirected to a host without working IPv6
+us,yandex.net,yandex.net,https://yandex.net/,timed out
+us,yandex.net,www.yandex.net,https://www.yandex.net/,timed out
+us,gravatar.com,www.gravatar.com,https://www.gravatar.com/,redirected to a host without working IPv6
+us,timeweb.ru,timeweb.ru,https://timeweb.ru/,could not connect (refused or unreachable)
+us,timeweb.ru,www.timeweb.ru,https://www.timeweb.ru/,timed out
+us,openai.com,www.openai.com,https://www.openai.com/,redirected to a host without working IPv6
+us,rubiconproject.com,rubiconproject.com,https://rubiconproject.com/,redirected to a host without working IPv6
+us,hp.com,www.hp.com,https://www.hp.com/,redirected to a host without working IPv6
+us,bbc.com,bbc.com,https://bbc.com/,redirected to a host without working IPv6
+us,yandex.com,yandex.com,https://yandex.com/,timed out
+us,yandex.com,www.yandex.com,https://www.yandex.com/,timed out
+us,ya.ru,ya.ru,https://ya.ru/,timed out
+us,huawei.com,huawei.com,https://huawei.com/,timed out
+us,ya.ru,www.ya.ru,https://www.ya.ru/,timed out
+us,lefigaro.fr,lefigaro.fr,https://lefigaro.fr/,redirected to a host without working IPv6
+us,elmundo.es,elmundo.es,https://elmundo.es/,could not connect (refused or unreachable)
+us,noaa.gov,noaa.gov,https://noaa.gov/,could not connect (refused or unreachable)
+us,doubleverify.com,www.doubleverify.com,https://www.doubleverify.com/,redirected to a host without working IPv6
+us,state.gov,state.gov,https://state.gov/,timed out
+us,speedtest.net,speedtest.net,https://speedtest.net/,redirected to a host without working IPv6
+us,dzen.ru,dzen.ru,https://dzen.ru/,redirected to a host without working IPv6
+us,dzen.ru,www.dzen.ru,https://www.dzen.ru/,redirected to a host without working IPv6
+us,europa.eu,europa.eu,https://europa.eu/,redirected to a host without working IPv6
+us,europa.eu,www.europa.eu,https://www.europa.eu/,redirected to a host without working IPv6
+us,aliyun.com,aliyun.com,https://aliyun.com/,redirected to a host without working IPv6
+us,reddit.com,reddit.com,https://reddit.com/,redirected to a host without working IPv6
+us,issuu.com,www.issuu.com,https://www.issuu.com/,redirected to a host without working IPv6
+us,teads.tv,www.teads.tv,https://www.teads.tv/,redirected to a host without working IPv6
+us,focus.de,focus.de,https://focus.de/,redirected to a host without working IPv6
+us,windows.com,windows.com,https://windows.com/,redirected to a host without working IPv6
+us,windows.com,www.windows.com,https://www.windows.com/,redirected to a host without working IPv6
+us,dellemc.com,www.dellemc.com,https://www.dellemc.com/,redirected to a host without working IPv6

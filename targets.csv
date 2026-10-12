@@ -1,0 +1,51 @@
+site,category,homepage_url,scrape_url,mode,terms_verdict,terms_url,terms_quote
+google,search,https://www.google.com/,https://www.google.com/search?q=ipv6,full,Defers to robots.txt,https://policies.google.com/terms,using automated means to access content from any of our services in violation of the machine-readable instructions (robots.txt)
+bing,search,https://www.bing.com/,https://www.bing.com/search?q=ipv6,full,Banned without permission,https://www.microsoft.com/en-us/servicesagreement,"Don't circumvent any restrictions on access... (e.g., ... impermissible scraping)"
+duckduckgo,search,https://duckduckgo.com/,https://html.duckduckgo.com/html/?q=ipv6,full,Not read (fetch blocked),https://duckduckgo.com/terms,
+yahoo,search,https://www.yahoo.com/,https://search.yahoo.com/search?p=ipv6,full,Banned without permission,https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html,"access or collect data... using any automated means... without our express, prior permission"
+yandex,search,https://yandex.com/,https://yandex.com/search/?text=ipv6,full,No ban found,https://yandex.com/legal/termsofuse/,No clause on users' automated access found; 3.5 lets Yandex refuse programs that violate the terms
+baidu,search,https://www.baidu.com/,https://www.baidu.com/s?wd=ipv6,full,Not read,,
+amazon,marketplace,https://www.amazon.com/,https://www.amazon.com/s?k=headphones,full,Not read (fetch blocked),https://www.amazon.com/gp/help/customer/display.html?nodeId=508088,
+ebay,marketplace,https://www.ebay.com/,https://www.ebay.com/sch/i.html?_nkw=headphones,full,Banned without permission,https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259,"use any robot, spider, scraper... or other automated means... except with the prior express permission of eBay"
+etsy,marketplace,https://www.etsy.com/,https://www.etsy.com/search?q=mug,full,Banned without permission,https://www.etsy.com/legal/terms-of-use,"You agree not to crawl, scrape, or spider any page of the Services... without our express permission"
+aliexpress,marketplace,https://www.aliexpress.com/,https://www.aliexpress.com/w/wholesale-headphones.html,full,Not read,,
+walmart,marketplace,https://www.walmart.com/,https://www.walmart.com/search?q=headphones,full,Banned outright,https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0,"any use of data mining, robots, or similar data gathering and extraction tools is strictly prohibited"
+mercadolibre,marketplace,https://www.mercadolibre.com.mx/,https://listado.mercadolibre.com.mx/audifonos,full,Not read,,
+rakuten,marketplace,https://www.rakuten.co.jp/,https://search.rakuten.co.jp/search/mall/headphones/,full,Not read,,
+temu,marketplace,https://www.temu.com/,https://www.temu.com/search_result.html?search_key=headphones,full,Banned outright,https://www.temu.com/terms-of-use.html,"use of manual or automated software or other means to access, crawl, scrape, or spider any page"
+craigslist,marketplace,https://newyork.craigslist.org/,https://newyork.craigslist.org/search/sss?query=bike,full,Banned outright,https://www.craigslist.org/about/terms.of.use,"You agree not to copy/collect CL content via robots, spiders, scripts, scrapers, crawlers, or any automated..."
+target,retail,https://www.target.com/,https://www.target.com/s?searchTerm=headphones,full,Banned without permission,https://www.target.com/c/terms-conditions/-/N-4sr7l,"Make any use of data extraction, scraping, mining or other data gathering tools"
+bestbuy,retail,https://www.bestbuy.com/,https://www.bestbuy.com/site/searchpage.jsp?st=headphones,full,Banned without permission,https://www.bestbuy.com/site/help-topics/terms-and-conditions/pcmcat204400050067.c?id=pcmcat204400050067,"may not use... spiders, robots... to navigate or search any Best Buy Property other than... publicly available browsers"
+homedepot,retail,https://www.homedepot.com/,https://www.homedepot.com/s/drill,full,Not read (page empty),https://www.homedepot.com/c/Terms_of_Use,
+costco,retail,https://www.costco.com/,https://www.costco.com/CatalogSearch?keyword=tv,full,Banned without permission,https://www.costco.com/terms-and-conditions-of-use.html,"Use any data mining, robots, agents or similar data gathering or extraction methods designed to scrape"
+ikea,retail,https://www.ikea.com/us/en/,https://www.ikea.com/us/en/search/?q=desk,full,Banned without permission,https://www.ikea.com/us/en/customer-service/terms-conditions/,"may not use any robot, spider... to monitor, copy or scrape... without prior express written consent"
+zalando,retail,https://www.zalando.de/,https://www.zalando.de/katalog/?q=sneaker,full,Not read,,
+argos,retail,https://www.argos.co.uk/,https://www.argos.co.uk/search/kettle/,full,Banned without permission,https://help.argos.co.uk/help/terms-and-conditions,"You must not use any automated means (such as bots, scraping tools...)... unless we have given you prior written permission"
+newegg,retail,https://www.newegg.com/,https://www.newegg.com/p/pl?d=ssd,full,Not read,,
+shein,retail,https://us.shein.com/,https://us.shein.com/pdsearch/dress/,full,Not read (page empty),https://us.shein.com/Terms-and-Conditions-a-399.html,
+booking,travel,https://www.booking.com/,https://www.booking.com/searchresults.html?ss=Paris,full,Banned without permission (commercial use),https://www.booking.com/content/terms.html,"You're not allowed to monitor, copy, scrape/crawl... (A14.2, commercial purposes, without written permission)"
+expedia,travel,https://www.expedia.com/,https://www.expedia.com/Hotel-Search?destination=Paris,full,Not read,,
+tripadvisor,travel,https://www.tripadvisor.com/,https://www.tripadvisor.com/Search?q=paris,full,Banned without permission,https://tripadvisor.mediaroom.com/us-terms-of-use,"any robot, spider, scraper or other automated means... without our express written permission"
+airbnb,travel,https://www.airbnb.com/,https://www.airbnb.com/s/Paris/homes,full,Banned outright,https://www.airbnb.com/help/article/2908,"Do not use bots, crawlers, scrapers, or other automated means to access or collect data (11.1)"
+kayak,travel,https://www.kayak.com/,https://www.kayak.com/hotels/Paris,full,Banned without permission,https://www.kayak.com/terms-of-use,"Scrape, harvest... or otherwise use automated tools on our Site without our written permission"
+hotels,travel,https://www.hotels.com/,https://www.hotels.com/Hotel-Search?destination=Paris,full,Not read,,
+trivago,travel,https://www.trivago.com/,https://www.trivago.com/en-US/srl?search=Paris,full,Not read (wrong page loaded),,
+indeed,jobs,https://www.indeed.com/,https://www.indeed.com/jobs?q=python,full,No general ban found,https://www.indeed.com/legal,Bans only automating Indeed Apply and scraping the Smart Sourcing database
+linkedin,jobs,https://www.linkedin.com/,https://www.linkedin.com/jobs/search?keywords=python,full,Not read (fetch blocked),https://www.linkedin.com/legal/user-agreement,
+glassdoor,jobs,https://www.glassdoor.com/,"https://www.glassdoor.com/Job/python-jobs-SRCH_KO0,6.htm",full,Not read (fetch blocked),https://www.glassdoor.com/about/terms/,
+ziprecruiter,jobs,https://www.ziprecruiter.com/,https://www.ziprecruiter.com/jobs-search?search=python,full,Not read,,
+monster,jobs,https://www.monster.com/,https://www.monster.com/jobs/search?q=python,full,Not read,,
+stepstone,jobs,https://www.stepstone.de/,https://www.stepstone.de/jobs/python,full,Not read,,
+zillow,real estate,https://www.zillow.com/,"https://www.zillow.com/homes/Seattle,-WA_rb/",full,Not read,https://www.zillow.com/z/corp/terms/,
+realtor,real estate,https://www.realtor.com/,https://www.realtor.com/realestateandhomes-search/Seattle_WA,full,Not read (fetch blocked),https://www.realtor.com/terms-of-service/,
+redfin,real estate,https://www.redfin.com/,https://www.redfin.com/city/16163/WA/Seattle,full,Banned without permission,https://www.redfin.com/about/terms-of-use,You may not automatedly crawl or query the Services... unless you have received prior express written permission (2.3.5)
+rightmove,real estate,https://www.rightmove.co.uk/,https://www.rightmove.co.uk/property-for-sale/London.html,full,Banned outright,https://www.rightmove.co.uk/this-site/terms-of-use.html,Rightmove prohibits the scraping of its content.
+immobilienscout24,real estate,https://www.immobilienscout24.de/,https://www.immobilienscout24.de/Suche/de/berlin/berlin/wohnung-mieten,full,Not read,,
+idealista,real estate,https://www.idealista.com/,https://www.idealista.com/venta-viviendas/madrid-madrid/,full,Not read,,
+reddit,social,https://www.reddit.com/,https://www.reddit.com/r/networking/,full,Not read (fetch blocked),https://redditinc.com/policies/user-agreement,
+x,social,https://x.com/,https://x.com/search?q=ipv6,full,Not read (fetch blocked),https://x.com/en/tos,
+instagram,social,https://www.instagram.com/,https://www.instagram.com/instagram/,full,Not read (page empty),https://help.instagram.com/581066165581870,
+facebook,social,https://www.facebook.com/,https://www.facebook.com/facebook,full,Not read (fetch blocked),https://www.facebook.com/terms.php,
+tiktok,social,https://www.tiktok.com/,https://www.tiktok.com/@tiktok,full,Not read (fetch blocked),https://www.tiktok.com/legal/page/us/terms-of-service/en,
+youtube,social,https://www.youtube.com/,https://www.youtube.com/results?search_query=ipv6,full,Not read (fetch blocked),https://www.youtube.com/t/terms,
+pinterest,social,https://www.pinterest.com/,https://www.pinterest.com/search/pins/?q=ipv6,full,Banned without permission,https://policy.pinterest.com/en/terms-of-service,"not to scrape, collect... by using automated means (without our express prior permission)"

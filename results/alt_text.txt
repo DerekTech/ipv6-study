@@ -1,0 +1,1 @@
+Bar chart of IPv6 reachability. Of the 725 websites in the Tranco top 1,000, 54.1% publish an IPv6 address and 49.1% loaded over IPv6 from both servers. Of the 44 commonly scraped sites, 31.8% publish an IPv6 address and 29.5% loaded over IPv6 from both servers.
