@@ -46,7 +46,6 @@ Every figure, with its definition, is in [`results/findings.md`](results/finding
 ## Limitations
 
 - **Two data-center vantage points.** Results may differ from home and mobile connections, and some sites treat cloud IP ranges with extra suspicion on both protocols.
-- **One time window.** All five passes ran within about two hours, overnight in Europe and in the evening in the US.
 - **curl, not a browser.** Requests came from curl with an identifying User-Agent, which some sites block regardless of protocol. "Loaded" counts any status code, including block pages.
 - **A snapshot.** Sites change their configuration often.
 
